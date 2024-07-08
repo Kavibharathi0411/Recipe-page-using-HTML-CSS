@@ -1,0 +1,48 @@
+.header{
+ padding-left: 450px;
+ background-color: cadetblue;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ color: white;
+}
+.para1{
+   
+    background-color: ghostwhite;
+    width:500px;
+    padding-left:30px;
+    padding-top: 5px; 
+    padding-bottom: 5px;  
+}
+.para{
+    padding-left: 370px;
+}
+.para2{
+    padding-left: 370px;
+}
+.para3{
+   
+    background-color: ghostwhite;
+    width:500px;
+    padding-left:30px;
+    padding-top: 5px; 
+    padding-bottom: 5px;  
+}
+.Ingredients{
+    color: rgb(159, 17, 159);
+}
+.para4{
+    padding-left: 370px;
+}
+.para5{
+   
+    background-color: ghostwhite;
+    width:500px;
+    padding-left:30px;
+    padding-top: 5px; 
+    padding-bottom: 5px;  
+}
+.recipe{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
